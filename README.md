@@ -48,7 +48,7 @@ Combines ArcFace embeddings with a custom CNN for real-time webcam-based celebri
 
 ## 📫 Contact
 
-- [LinkedIn](linkedin.com/in/neel-jacob-jogy)
+- [LinkedIn](https://www.linkedin.com/in/neel-jacob-jogy)
 - [Email](mailto:neeljacob2002@gmail.com)
 - [Portfolio (coming soon!)](#)
 
