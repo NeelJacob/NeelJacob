@@ -25,7 +25,7 @@
 
 ## 📈 GitHub Stats
 
-![Neel's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeljogy&show_icons=true&theme=tokyonight)
+![Neel's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeljacob&show_icons=true&theme=tokyonight)
 
 ---
 
